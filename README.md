@@ -1,6 +1,7 @@
 # 🚀 Skillite AI Mentor= skillite-ai.onrender.com
 
 Skillite AI is an intelligent AI-powered career mentor designed for students who want a clear roadmap to learn skills and build their future.
+This is the link for chatbot=skillite-ai.onrender.com
 
 Instead of giving generic answers, Skillite interacts with the user like a mentor — asking smart questions to understand their background, skills, and career goals before generating a personalized roadmap.
 
