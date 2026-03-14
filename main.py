@@ -45,7 +45,6 @@ async def chat(request: Request):
         "content": user_message
     })
 
-    # -------- SMART MASTER PROMPT --------
     system_prompt = """
 You are Skillite AI - a smart career mentor for Indian students.
 
